@@ -1,0 +1,28 @@
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css);
+
+.content-blocks {
+}
+
+.content-blocks .block-item {
+    padding: 10px;
+    box-shadow: 0px 0px 2px #999;
+    margin: 7px 0;
+    font-size: 20px;
+    background: #E4F7FF;
+}
+
+.content-blocks .block-item span.dragme {
+}
+
+.content-blocks .block-item strong {
+}
+
+.content-blocks .block-item .optionsme {
+    display: inline-block;
+    float: right;
+}
+
+.content-blocks .block-item .optionsme .fa-remove {
+    cursor: pointer;
+    color: red;
+}
